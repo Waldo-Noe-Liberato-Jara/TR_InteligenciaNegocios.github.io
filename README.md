@@ -1,1 +1,0 @@
-TR_InteligenciaNegocios.github.io
